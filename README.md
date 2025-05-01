@@ -75,16 +75,19 @@ Enter the message to encrypt:
 > AES, or Advanced Encryption Standard, is a symmetric encryption algorithm widely used to protect sensitive data. It's a block cipher that encrypts data in blocks of 128 bits using keys of 128, 192, or 256 bits. AES was adopted by the U.S. National Institute of Standards and Technology (NIST) in 2001 to replace the Data Encryption Standard (DES), which was becoming vulnerable to attacks. 
 
 Generating AES Key from SHA-256 (first 16 bytes)...
+
 AES Key (hex): e309617ace87a91f79eaa0d8c4ec2634
 
-IV       (hex): be82062540bce812911bf3cadf752108
+IV (hex): be82062540bce812911bf3cadf752108
  
 Ciphertext (IV + Cipher, hex):
+
 be82062540bce812911bf3cadf75210862a0e007c1baf5dcf67395228fa86e2fa0eba54c2487adb7b5abdea7899a7748adec37e1ab7c3e7cd5c597069473e0a3be57dcf38309e8687bb2c6ce3d14dfa9ef68e3d27a9a60b861bf097a9eff4038c8dc31cb69ec217a510cb41cb45961be63091be55e94e45e0453c3a49540706d55a6bf95acae2c4bf2c719c345d06ec66ba77b5ee8f8880564df851ea24ee10a734a3ac7dbb94a69913f91250ad4110bb5f685be36f5d3649ad550eccb62c6238bddddd1498a6391db14684b185fc5853a199651261bd3b93eab1c785b48f2bd2f0e496a9be79f40ce6e0b4a64b5805dfd130021388f26f555c6a3c56cf6674a92b726814db95d99b08fa97e77b8fe7dcc16fddc80b82c0e58febd9335c6789b59ca54d02428ba57e1280d40e91ed2937eeca4440d5d2b15434cfaaae5f2c7bfbd4bb5ad3dfaadd38e156b122c3337553cd772f476e8e3e6c3ce83c888c09bd5e146eb268d7e8f49580081fdc4da8b5b4a78ccb0b59b0a638886961549065cf080e56c9926208e13e29e0350c16f29954a4638411c3d6df0b203bd58cac7ca14
  
- Starting Decryption...
+Starting Decryption...
 
- Decrypted Message:
+Decrypted Message:
+
 AES, or Advanced Encryption Standard, is a symmetric encryption algorithm widely used to protect sensitive data. It's a block cipher that encrypts data in blocks of 128 bits using keys of 128, 192, or 256 bits. AES was adopted by the U.S. National Institute of Standards and Technology (NIST) in 2001 to replace the Data Encryption Standard (DES), which was becoming vulnerable to attacks. 
 Decryption completed successfully!
 
