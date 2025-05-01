@@ -74,6 +74,7 @@ python aes_cbc_manual.py
    AES-128 CBC Mode Encryption/Decryption
       
 ===================================================
+
 Enter the message to encrypt:
 > AES, or Advanced Encryption Standard, is a symmetric encryption algorithm widely used to protect sensitive data. It's a block cipher that encrypts data in blocks of 128 bits using keys of 128, 192, or 256 bits. AES was adopted by the U.S. National Institute of Standards and Technology (NIST) in 2001 to replace the Data Encryption Standard (DES), which was becoming vulnerable to attacks. 
 
