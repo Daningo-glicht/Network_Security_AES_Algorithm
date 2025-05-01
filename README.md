@@ -71,7 +71,7 @@ python aes_cbc_manual.py
 
 ===================================================
 
-   AES-128 CBC Mode Encryption/Decryption
+      AES-128 CBC Mode Encryption/Decryption
       
 ===================================================
 
